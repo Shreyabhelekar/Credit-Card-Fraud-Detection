@@ -14,19 +14,14 @@ Class: Target variable (0 for legitimate transactions, 1 for fraudulent transact
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/Shreyabhelekar/Credit-Card-Fraud-Detection.git
+   cd Credit-Card-Fraud-Detection
    ```
    
 2. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 # Usage
